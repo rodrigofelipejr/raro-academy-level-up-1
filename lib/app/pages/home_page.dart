@@ -12,6 +12,7 @@ class HomePage extends StatelessWidget {
       BrazilFlagWidget(),
       ColombiaFlagWidget(),
       ScotlandFlagWidget(),
+      ArmeniaFlagWidget()
     ];
 
     return Scaffold(
