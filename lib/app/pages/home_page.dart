@@ -9,6 +9,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     final List<Widget> flags = [
       JapanFlagWidget(),
+      BrazilFlagWidget(),
     ];
 
     return Scaffold(
